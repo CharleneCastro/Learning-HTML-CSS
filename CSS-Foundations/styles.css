@@ -10,6 +10,11 @@ div {
     background-color: black;
 }
 
+/* Class Selectors */
+.desc {
+    color: purple;
+}
+
 /* ID Selectors */
 #title {
     font-size: larger;
