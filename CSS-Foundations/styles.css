@@ -1,3 +1,11 @@
+/* Universal Selector */
+* {
+    font-family: Arial;
+}
+
+/* Type Selector */
 div {
-    color: purple;
+    font-family: "Times New Roman";
+    color: white;
+    background-color: black;
   }
