@@ -8,4 +8,11 @@ div {
     font-family: "Times New Roman";
     color: white;
     background-color: black;
-  }
+}
+
+/* ID Selectors */
+#title {
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+}
