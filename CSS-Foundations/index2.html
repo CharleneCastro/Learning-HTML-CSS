@@ -14,6 +14,20 @@
         .color #hsl{
             color: hsl(15, 82%, 56%);
         }
+
+
+        .font #fam{
+            font-family: 'Courier New', Courier, monospace;
+        }
+        .font #size{
+            font-size: 24px;
+        }
+        .font #weight{
+            font-weight: bold;
+        }
+        .font #align{
+            text-align: center
+        }
     </style>
 </head>
 
@@ -24,8 +38,21 @@
         <p id="rgb"> color with rgb</p>
         <p id="hsl"> color with hsl</p>
     </div>
+    <br>
 
+    <div class="font">
+        <p id="fam"> font-family </p> 
+        <li>If the browser does not support the font, it will use the next one in the list</li>
+        
+        <p id="size"> font-size </p>
 
+        <p id="weight"> font-weight </p> 
+        <li>(lighter, bold, bolder)</li>
+        <li>(#1-1000, where 700=bold)</li>
+        
+        <p id="align"> text-align </p> 
+        <li>(left, right, start, end, center, justify)</li>
+    </div>
 
 </body>
 </html>
