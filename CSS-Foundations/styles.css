@@ -37,3 +37,16 @@ h1, h2 {
 .subsection#preview {
 color: blue;
 }
+
+
+
+/* Descendant Combinator */
+.ancestor .contents {
+    color: darkgreen;
+    background-color: azure;
+}
+
+.contents{
+    color: blueviolet;
+    background-color:bisque
+}
