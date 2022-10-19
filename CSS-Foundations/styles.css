@@ -26,3 +26,14 @@ div {
 h1, h2 {
     font-family: Impact;
 }
+
+/* Chaining Selectors */
+.subsection {
+    background-color: beige;
+}
+.subsection.header {
+    color: red;
+}
+.subsection#preview {
+color: blue;
+}
