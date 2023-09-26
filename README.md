@@ -26,6 +26,13 @@ My personal notes from [Odin Project's Foundations Course](https://www.theodinpr
 
 
 
+### [Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
+
+I ended up forking the exercises from
+[Alignment](https://www.theodinproject.com/lessons/foundations-alignment).
+Click [here](https://github.com/CharleneCastro/css-exercises-flex) for my solutions.
+
+
 ## Other Resources/Cheatsheets
 
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - by Chris Coyier
