@@ -14,7 +14,7 @@ My personal notes from [Odin Project's Foundations Course](https://www.theodinpr
 
 [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
 
-
+I made aother repo for [Project: Recipes](https://www.theodinproject.com/lessons/foundations-recipes). Click [here](https://github.com/CharleneCastro/Odin-Recipes) for my code, or [here](https://charlenecastro.github.io/Odin-Recipes/) to see the final project.
 
 ### [CSS Foundations:](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
 
